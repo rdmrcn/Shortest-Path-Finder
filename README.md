@@ -1,4 +1,4 @@
-Shortes Path Finder 
+Shortest Path Finder
 made by me in  06.2024 using Python
 Overview
 The Shortest Path Finder is a Python project that implements algorithms to find the shortest path between nodes in a graph. This tool can be used in various applications such as route optimization, network analysis, and game development.
